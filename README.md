@@ -8,7 +8,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Accounting-Software-Integration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Accounting-Software-Integration?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Accounting-Software-Integration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Accounting-Software-Integration?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Accounting-Software-Integration/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Accounting-Software-Integration?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Accounting-Software-Integration/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -79,77 +79,77 @@ The table below summarizes commercial platforms for accounting data sync, automa
 
 Curated open-source projects providing workflow engines, full self-hosted accounting/ERP suites, billing infrastructure, data integration pipelines, and specialized accounting SDKs.
 
-*Sorted in descending order by GitHub Stars:*
+*Sorted in descending order by GitHub_Stars:*
 
-1. **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+1. **[n8n](https://github.com/n8n-io/n8n)** [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
    **Fair-code workflow automation platform** (Sustainable Use License) — The premier self-hosted automation engine for finance workflows. Features 200+ built-in nodes (including ERPNext, Salesforce, and universal HTTP REST nodes with OAuth 2.0). Ideal for building private webhook listeners that transform payload schemas and push journal entries directly into accounting endpoints.  
    *Tech Stack: TypeScript / Node.js*
 
-2. **[Odoo](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
+2. **[Odoo](https://github.com/odoo/odoo)** [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
    **Open-source enterprise management suite** (LGPL-3.0) — Complete modular architecture featuring native double-entry bookkeeping, point-of-sale, inventory valuation, automated bank statement synchronization, and full REST/XML-RPC web APIs to interconnect third-party storefronts.  
    *Tech Stack: Python, JavaScript, PostgreSQL*
 
-3. **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+3. **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
    **Full-featured open-source ERP with integrated accounting** (GPL-3.0) — Consolidates CRM, sales pipelines, multi-currency invoicing, purchase orders, inventory, and asset depreciation onto a single unified relational database. Completely removes the necessity for fragile CRM-to-accounting integration middleware.  
    *Tech Stack: Python (Frappe Framework), MariaDB*
 
-4. **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
+4. **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub_Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
    **Open-source visual no-code automation engine** (MIT License) — An MIT-licensed alternative to Zapier featuring enterprise connectors for QuickBooks, Stripe, Hubspot, and webhook handling. Allows self-hosted automated bookkeeping workflows with full data governance.  
    *Tech Stack: TypeScript, Node.js, Angular*
 
-5. **[Airbyte](https://github.com/airbytehq/airbyte)** [![GitHub stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers)  
+5. **[Airbyte](https://github.com/airbytehq/airbyte)** [![GitHub_Stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers)  
    **Open-source ELT data integration platform** (ELv2) — Powers automated replication pipelines from financial and commerce data sources (Stripe, Shopify, Chargebee, QuickBooks) directly into analytical data warehouses (Snowflake, BigQuery, ClickHouse) for custom ledger aggregation and reconciliation.  
    *Tech Stack: Java, Python, Docker*
 
-6. **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
+6. **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub_Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
    **Open-source invoicing, billing, and accounting suite** (AEL-1.0) — Self-hosted platform providing REST API integrations with over 30+ payment gateways, client billing portals, expenses tracking, and webhook dispatching for external accounting synchronization.  
    *Tech Stack: PHP (Laravel), Flutter*
 
-7. **[Akaunting](https://github.com/akaunting/akaunting)** [![GitHub stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white)](https://github.com/akaunting/akaunting/stargazers)  
+7. **[Akaunting](https://github.com/akaunting/akaunting)** [![GitHub_Stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white)](https://github.com/akaunting/akaunting/stargazers)  
    **Modular open-source online accounting software** (GPL-3.0) — Designed specifically for small enterprises and independent professionals. Offers double-entry accounting, invoice tracking, expense reporting, multi-currency support, and an extensible REST API module system.  
    *Tech Stack: PHP (Laravel), Vue.js*
 
-8. **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
+8. **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub_Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
    **Open-source subscription billing and payments engine** (Apache 2.0) — Enterprise financial infrastructure handling complex recurring subscription lifecycles, automated payment routing, invoice generation, and financial notifications designed to feed external general ledgers.  
    *Tech Stack: Java*
 
-9. **[Frappe Books](https://github.com/frappe/books)** [![GitHub stars](https://img.shields.io/github/stars/frappe/books?style=social&color=white)](https://github.com/frappe/books/stargazers)  
+9. **[Frappe Books](https://github.com/frappe/books)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/books?style=social&color=white)](https://github.com/frappe/books/stargazers)  
    **Free, local-first desktop double-entry accounting software** (GPL-3.0) — Lightweight, self-contained financial ledger for small businesses, freelancers, and offline-first bookkeeping using modern local database storage.  
    *Tech Stack: JavaScript, Electron, Vue.js*
 
-10. **[Active Merchant](https://github.com/activemerchant/active_merchant)** [![GitHub stars](https://img.shields.io/github/stars/activemerchant/active_merchant?style=social&color=white)](https://github.com/activemerchant/active_merchant/stargazers)  
+10. **[Active Merchant](https://github.com/activemerchant/active_merchant)** [![GitHub_Stars](https://img.shields.io/github/stars/activemerchant/active_merchant?style=social&color=white)](https://github.com/activemerchant/active_merchant/stargazers)  
     **Extraction-grade payment abstraction library** (MIT License) — Extracted originally from Shopify, provides a uniform Ruby interface across 100+ payment gateways, serving as a core integration utility for payment capture and transaction settlement workflows.  
     *Tech Stack: Ruby*
 
-11. **[quickbooks-ruby](https://github.com/ruckus/quickbooks-ruby)** [![GitHub stars](https://img.shields.io/github/stars/ruckus/quickbooks-ruby?style=social&color=white)](https://github.com/ruckus/quickbooks-ruby/stargazers)  
+11. **[quickbooks-ruby](https://github.com/ruckus/quickbooks-ruby)** [![GitHub_Stars](https://img.shields.io/github/stars/ruckus/quickbooks-ruby?style=social&color=white)](https://github.com/ruckus/quickbooks-ruby/stargazers)  
     **Ruby gem for Intuit QuickBooks Online REST API v3** (MIT License) — A mature Ruby wrapper supporting OAuth 2.0 authentication, active resource mapping, filtering, and CRUD operations across standard QuickBooks Online financial entities.  
     *Tech Stack: Ruby*
 
-12. **[QuickBooks-V3-PHP-SDK](https://github.com/intuit/QuickBooks-V3-PHP-SDK)** [![GitHub stars](https://img.shields.io/github/stars/intuit/QuickBooks-V3-PHP-SDK?style=social&color=white)](https://github.com/intuit/QuickBooks-V3-PHP-SDK/stargazers)  
+12. **[QuickBooks-V3-PHP-SDK](https://github.com/intuit/QuickBooks-V3-PHP-SDK)** [![GitHub_Stars](https://img.shields.io/github/stars/intuit/QuickBooks-V3-PHP-SDK?style=social&color=white)](https://github.com/intuit/QuickBooks-V3-PHP-SDK/stargazers)  
     **Official Intuit PHP client library for QuickBooks Online** (Apache 2.0) — Enables PHP and WordPress/WooCommerce applications to perform OAuth 2.0 handshakes, execute batch transactions, query reports, and synchronize customer, invoice, and payment models.  
     *Tech Stack: PHP*
 
-13. **[xero-node](https://github.com/XeroAPI/xero-node)** [![GitHub stars](https://img.shields.io/github/stars/XeroAPI/xero-node?style=social&color=white)](https://github.com/XeroAPI/xero-node/stargazers)  
+13. **[xero-node](https://github.com/XeroAPI/xero-node)** [![GitHub_Stars](https://img.shields.io/github/stars/XeroAPI/xero-node?style=social&color=white)](https://github.com/XeroAPI/xero-node/stargazers)  
     **Official Xero Node.js SDK for OAuth 2.0** (MIT License) — Full TypeScript/Node.js client generated from Xero's OpenAPI specifications, supporting the Accounting API, Assets API, Project API, and Bank Feeds API.  
     *Tech Stack: TypeScript, JavaScript*
 
-14. **[xero-python](https://github.com/XeroAPI/xero-python)** [![GitHub stars](https://img.shields.io/github/stars/XeroAPI/xero-python?style=social&color=white)](https://github.com/XeroAPI/xero-python/stargazers)  
+14. **[xero-python](https://github.com/XeroAPI/xero-python)** [![GitHub_Stars](https://img.shields.io/github/stars/XeroAPI/xero-python?style=social&color=white)](https://github.com/XeroAPI/xero-python/stargazers)  
     **Official Xero Python SDK** (MIT License) — Python client package supporting OAuth 2.0 token management, bank transaction sync, invoice creation, and contact reconciliation against the Xero platform.  
     *Tech Stack: Python*
 
-15. **[django-quickbooks](https://github.com/weltlink/django-quickbooks)** [![GitHub stars](https://img.shields.io/github/stars/weltlink/django-quickbooks?style=social&color=white)](https://github.com/weltlink/django-quickbooks/stargazers)  
+15. **[django-quickbooks](https://github.com/weltlink/django-quickbooks)** [![GitHub_Stars](https://img.shields.io/github/stars/weltlink/django-quickbooks?style=social&color=white)](https://github.com/weltlink/django-quickbooks/stargazers)  
     **Django web framework integration for QuickBooks Online** (MIT License) — Provides Django models, token persistence helpers, and view decorators for managing Intuit OAuth 2.0 sessions within Python web applications.  
     *Tech Stack: Python (Django)*
 
-16. **[apigrate/quickbooks](https://github.com/apigrate/quickbooks)** [![GitHub stars](https://img.shields.io/github/stars/apigrate/quickbooks?style=social&color=white)](https://github.com/apigrate/quickbooks/stargazers)  
+16. **[apigrate/quickbooks](https://github.com/apigrate/quickbooks)** [![GitHub_Stars](https://img.shields.io/github/stars/apigrate/quickbooks?style=social&color=white)](https://github.com/apigrate/quickbooks/stargazers)  
     **Node.js connection library for Intuit QuickBooks Online** (Apache 2.0) — Lightweight JavaScript client facilitating CRUD queries, pagination handling, entity updates, and idempotent change requests for cloud functions and microservices.  
     *Tech Stack: JavaScript / Node.js*
 
-17. **[qbo-sdk-py](https://github.com/fylein/qbo-sdk-py)** [![GitHub stars](https://img.shields.io/github/stars/fylein/qbo-sdk-py?style=social&color=white)](https://github.com/fylein/qbo-sdk-py/stargazers)  
+17. **[qbo-sdk-py](https://github.com/fylein/qbo-sdk-py)** [![GitHub_Stars](https://img.shields.io/github/stars/fylein/qbo-sdk-py?style=social&color=white)](https://github.com/fylein/qbo-sdk-py/stargazers)  
     **Lightweight Python SDK for QuickBooks Online** (MIT License) — Engineered by Fyle for expense reconciliation, bill generation, and direct API communication without bloated framework dependencies.  
     *Tech Stack: Python*
 
-18. **[patsch9 Accounting Bridge](https://github.com/patsch9/patsch9-accounting-bridge)** [![GitHub stars](https://img.shields.io/github/stars/patsch9/patsch9-accounting-bridge?style=social&color=white)](https://github.com/patsch9/patsch9-accounting-bridge/stargazers)  
+18. **[patsch9 Accounting Bridge](https://github.com/patsch9/patsch9-accounting-bridge)** [![GitHub_Stars](https://img.shields.io/github/stars/patsch9/patsch9-accounting-bridge?style=social&color=white)](https://github.com/patsch9/patsch9-accounting-bridge/stargazers)  
     **WooCommerce to Lexware Office synchronization plugin** (GPL-3.0) — Open-source German accounting bridge facilitating automated invoice creation, HPOS support, queue-based transaction matching, and credit note management.  
     *Tech Stack: PHP, WordPress, WooCommerce*
 
@@ -186,7 +186,7 @@ Understanding the distinction between platforms, connectors, and software suites
 1. 🍴 Fork this repository.
 2. 📝 Add or update entries in `README.md` adhering to the standard markdown format.
 3. 💵 For SaaS products: provide specific pricing tiers, free tier/trial limitations, company valuation/ARR, and concise use cases.
-4. ⭐ For open-source projects: ensure you include the official GitHub star badge (`style=social&color=white` linking to the repository stargazers page), repository link, primary language, and licensing details.
+4. ⭐ For open-source projects: ensure you include the official GitHub Stars_Badge (`style=social&color=white` linking to the repository stargazers page), repository link, primary language, and licensing details.
 5. 🚀 Submit a descriptive Pull Request.
 
 ---
